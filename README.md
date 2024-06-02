@@ -1,3 +1,13 @@
+
+```
+
+for checking credential
+# ID :  eve.holt@reqres.in
+# Password : cityslicka
+
+```
+
+
 # React-Evaluation-June
 
 # Using the following tools and technologies: 
