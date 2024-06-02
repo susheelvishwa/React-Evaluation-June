@@ -34,14 +34,14 @@ const Login = () => {
 
       toast({
         title: "Login Successful",
-        description: "welcome shivam",
+        description: "welcome to Product Page",
         status: "success",
-        duration: 2000, 
+        duration: 2000,
         isClosable: true,
       });
 
       setTimeout(() => {
-        navigate(`/home`);
+        navigate(`/Product`);
       }, 1000); 
     } catch (error) {
       console.log(error);
